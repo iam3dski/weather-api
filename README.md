@@ -43,7 +43,7 @@ THEN I am again presented with current and future conditions for that city
 
 ## Deployed page
 
-[View Published Page]()
+[View Published Page](https://iam3dski.github.io/weather-api/)
 
 ## License
 
